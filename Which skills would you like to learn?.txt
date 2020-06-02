@@ -8,3 +8,4 @@
 \f0\fs24 \cf0 I would love to learn about Machine Learning. And about Docker. - Tolulope}
 
 Wagtail CMS and Python -  Muhammad
+Wagtail CMS, SQL. and Machine Learning  - Abdulmajeed
